@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e4e5e9;
+}
+
+/* Header */
+
+.header {
+  background-color: #343a40;
+  width: 100%;
+  height: 200px;
+}
+
+.img_container {
+  /* background-color: black; */
+  width: 50%;
+  float: left;
+}
+
+.img {
+  border-radius: 75px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.title {
+  /* background-color: blue; */
+  width: 50%;
+  float: right;
+  color: #fff;
+}
+
+/* Experience */
+
+.heading {
+  margin-top: 5px;
+  clear: right;
+  background-color: #c4c4c4;
+}
+
+.heading_text {
+  padding: 5px;
+  margin-left: 15px;
+}
+
+.left {
+  width: 50%;
+  float: left;
+  /* background-color: aqua; */
+}
+.right {
+  width: 50%;
+  float: right;
+  /* background-color: aquamarine; */
+}
+
+.list li {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.right p {
+  margin-top: 50px;
+}
